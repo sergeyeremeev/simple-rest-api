@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_ATLAS_PW": "esv13061992",
+        "JWT_SECRET": "hfdasfadjafduifduioabadfsbfdafsdlkjfhasiiudfbasbdlfbjalksd"
+    }
+}
